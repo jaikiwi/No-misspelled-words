@@ -1,2 +1,2 @@
 # AI_chatbot
-No-misspelled-words
+ai-chatbot
